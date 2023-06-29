@@ -1,5 +1,4 @@
-{
-    "brands": [
+[
         {
             "id": 1,
             "brand": "Nike",
@@ -31,4 +30,3 @@
             "logo": "https://i.postimg.cc/BQ2sqRRt/jordan-Logo.png"
         }
     ]
-}
