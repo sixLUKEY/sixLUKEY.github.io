@@ -1,0 +1,163 @@
+{
+    "skills" : [
+    {
+        "id" : 1,
+        "name" : "HTML",
+        "symbol" : "https://i.postimg.cc/9X1JN39Q/html-124-svgrepo-com.png",
+        "level" : 3
+    },
+    {
+        "id" : 2,
+        "name" : "CSS",
+        "symbol" : "https://i.postimg.cc/tJRDCkKb/css3-02-svgrepo-com.png",
+        "level" : 4
+    },
+    {
+        "id" : 3,
+        "name" : "Bootstrap",
+        "symbol" : "https://i.postimg.cc/pr0C98vF/bootstrap-fill-svgrepo-com.png",
+        "level" : 3
+    },
+    {
+        "id" : 4,
+        "name" : "Tailwind",
+        "symbol" : "https://i.postimg.cc/1zpKGbPP/tailwind-css-svgrepo-com.png",
+        "level" : 3
+    },
+    {
+        "id" : 5,
+        "name" : "Javascript",
+        "symbol" : "https://i.postimg.cc/ZKRjGfPF/js01-svgrepo-com.png",
+        "level" : 3
+    },
+    {
+        "id" : 6,
+        "name" : "VueJs",
+        "symbol" : "https://i.postimg.cc/sXs4wKDW/vue-fill-svgrepo-com.png",
+        "level" : 3
+    },
+    {
+        "id" : 7,
+        "name" : "NextJs",
+        "symbol" : "https://i.postimg.cc/NfzbB1ph/nextjs-icon-svgrepo-com.png",
+        "level" : 2
+    },
+    {
+        "id" : 8,
+        "name" : "ThreeJs",
+        "symbol" : "https://i.postimg.cc/cCJMNH34/Threejs-logo-cutout.png",
+        "level" : 2
+    },
+    {
+        "id" : 9,
+        "name" : "Blender",
+        "symbol" : "https://i.postimg.cc/MTmdSNrt/blender-svgrepo-com.png",
+        "level" : 2
+    },
+    {
+        "id" : 10,
+        "name" : "Figma",
+        "symbol" : "https://i.postimg.cc/4xHPdmSY/figma-svgrepo-com.png",
+        "level" : 3
+    },
+    {
+        "id" : 11,
+        "name" : "Java",
+        "symbol" : "https://i.postimg.cc/SK0rzkBD/java-svgrepo-com.png",
+        "level" : 2
+    },
+    {
+        "id" : 12,
+        "name" : "C#",
+        "symbol" : "https://i.postimg.cc/W3vXxTSh/63065002cd563e1f8fcead3b-fdcad5ca.png",
+        "level" : 2
+    }
+    
+], "education" : [
+    {
+        "id" : 1,
+        "name" : "Table View Primary School",
+        "type" : "Primary School",
+        "length" : "Grades 1-7"
+    },
+    {
+        "id" : 2,
+        "name" : "Melkbosstrand High School",
+        "type" : "High School",
+        "length" : "Grades 8-12"
+    },
+    {
+        "id" : 3,
+        "name" : "Stellenbosch University",
+        "type" : "BAcc Chartered Accounting (Incomplete)",
+        "length" : "2 years"
+    },
+    {
+        "id" : 4,
+        "name" : "AIE Academic Insitiute of Excellence",
+        "type" : "Software and web development",
+        "length" : "10 months"
+    },
+    {
+        "id" : 5,
+        "name" : "Life Choices Academy",
+        "type" : "Full stack web development",
+        "length" : "April 2023 - current"
+    }
+], "projects" : [
+    {
+        "id" : 1,
+        "name" : "E-commerce Shoe Store",
+        "image" : "https://i.postimg.cc/L5hQczrs/Screenshot-27.png",
+        "description" : "A shoe store with functional cart and CRUD system, My end of module Javascript Project.",
+        "stack" : "HTML, CSS, JavaScript, Bootstrap",
+        "live" : "https://radiant-paletas-4723ba.netlify.app/",
+        "github" : "https://github.com/sixLUKEY/javascript_EOMP.git"
+    },
+    {
+        "id" : 2,
+        "name" : "E-commerce Gadget Store",
+        "image" : "https://i.postimg.cc/WzKYTdvw/Screenshot-26.png",
+        "description" : "A gadget store with products displaying via a javascript Array",
+        "stack" : "HTML, CSS, JavaScript, Bootstrap",
+        "live" : "https://dancing-valkyrie-5e3ef4.netlify.app/",
+        "github" : "https://github.com/sixLUKEY/E-commerce.git"
+    },
+    {
+        "id" : 3,
+        "name" : "My first Portfolio",
+        "image" : "https://i.postimg.cc/yd1bPqjc/Screenshot-28.png",
+        "description" : "My first Portfolio and first end of module Project, featuring some neumorphism aspects",
+        "stack" : "HTML, CSS, JavaScript, Bootstrap",
+        "live" : "https://legendary-syrniki-9d8324.netlify.app/",
+        "github" : "https://github.com/sixLUKEY/BOOTSTRAP-EOMP.git"
+    },
+    {
+        "id" : 4,
+        "name" : "Javasscript Calculator",
+        "image" : "https://i.postimg.cc/hGqwXQ7C/Screenshot-25.png",
+        "description" : "A fully functional calculator, one of my first Javascript Projects ",
+        "stack" : "HTML, CSS, JavaScript",
+        "live" : "https://exquisite-toffee-cf249d.netlify.app/",
+        "github" : "https://github.com/sixLUKEY/CalculatorRetry.git"
+    },
+    {
+        "id" : 5,
+        "name" : "Aesthetic Class List",
+        "image" : "https://i.postimg.cc/j5Mk3839/Screenshot-24.png",
+        "description" : "A class list displaying details about the learners",
+        "stack" : "HTML, CSS",
+        "live" : "https://deft-snickerdoodle-c3535c.netlify.app/",
+        "github" : "https://github.com/sixLUKEY/ClassAge.git"
+    },
+    {
+        "id" : 6,
+        "name" : "Six Paths Of Pain",
+        "image" : "https://i.postimg.cc/t46wRN7Z/Screenshot-23.png",
+        "description" : "A side project showcasing the Naruto Character 'Pain' and his variations",
+        "stack" : "HTML, CSS, JavaScript",
+        "live" : "https://incomparable-buttercream-1e531e.netlify.app/",
+        "github" : "https://github.com/sixLUKEY/NARUTO-PAGE.git"
+    }
+]
+}
