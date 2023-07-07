@@ -159,5 +159,42 @@
         "live" : "https://incomparable-buttercream-1e531e.netlify.app/",
         "github" : "https://github.com/sixLUKEY/NARUTO-PAGE.git"
     }
+], "testimonials" : [
+    {
+        "id" : 1,
+        "name" : " Cheslyn Herman",
+        "message" : "Within the time working with Luke, I can definitely say that this is someone you would want in your team. His passion and charisma is infectious, he tends to make one feel welcomed no matter the occassion.",
+        "image" : "https://i.postimg.cc/ZqQpVfQT/C12-Cheslyn-Herman-2-min.jpg"
+    },
+    {
+        "id" : 2,
+        "name" : "Ayesha Galant",
+        "message" : "Luke is a detail oriented person. He is very hardworking and dedicated to bringing his vision to life. As a classmate, he is always ready to help and there is a lot I can learn from him. Working with him motivates me to push myself and meet my goals.",
+        "image" : "https://i.postimg.cc/KcBBDDD2/C12-Ayesha-Galant-Class1-2-min.jpg"
+    },
+    {
+        "id" : 3,
+        "name" : "Timothy Barry",
+        "message" : "I have had the pleasure of working alongside Luke and he is a great personality to be around. He is a very kind person and also very genuine. He has excellent skills in html and css and he excels at everything he does. He takes his work seriously and doesn't like to mess around when it comes to his work. He works extremely well in a team and also by himself. He is overall just a great guy to be around.",
+        "image" : "https://i.postimg.cc/x8vmj91C/C12-Timothy-Barry-2-min.jpg"
+    },
+    {
+        "id" : 4,
+        "name" : "Asiphe Ndimlana",
+        "message" : "As an IT professional, Luke embodies dedication and excellence. He never fails to exceed expectations and possesses a remarkable work ethic alongside unparalleled proficiency in technical matters.",
+        "image" : "https://i.postimg.cc/NFqTwKYS/C12-Asiphe-Ndimlana-2-min.jpg"
+    },
+    {
+        "id" : 5,
+        "name" : "Antonio Tone",
+        "message" : "I am thrilled to share my positive testimonial about my experience with Luke. From the moment I first met him I was impressed. His dedication to excellence and drive to achieve was evident in every interaction I had with him. Luke's positive attitude, humour and passion for his work is inspiring, and he has a unique ability to inspire and motivate others to achieve their best. He is always willing to go the extra mile to ensure that the project is completed.",
+        "image" : "https://i.postimg.cc/9F2T8wLq/C12-C1-Antonio-Torre-2-min.jpg"
+    },
+    {
+        "id" : 6,
+        "name" : "Taahirah Ismail",
+        "message" : "I'm truly impressed by my colleague, Luke Evertson. His passion for web development is contagious, and he fearlessly takes on challenging projects. He constantly seeks feedback, learns new technologies, and contributes valuable ideas to our class.",
+        "image" : "https://i.postimg.cc/3w4bzS49/C12-Taahirah-Ismail.jpg"
+    }
 ]
 }
