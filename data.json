@@ -4,73 +4,73 @@
         "id" : 1,
         "name" : "HTML",
         "symbol" : "https://i.postimg.cc/9X1JN39Q/html-124-svgrepo-com.png",
-        "level" : 3
+        "level" : "advanced"
     },
     {
         "id" : 2,
         "name" : "CSS",
         "symbol" : "https://i.postimg.cc/tJRDCkKb/css3-02-svgrepo-com.png",
-        "level" : 4
+        "level" : "expert"
     },
     {
         "id" : 3,
         "name" : "Bootstrap",
         "symbol" : "https://i.postimg.cc/pr0C98vF/bootstrap-fill-svgrepo-com.png",
-        "level" : 3
+        "level" : "advanced"
     },
     {
         "id" : 4,
         "name" : "Tailwind",
         "symbol" : "https://i.postimg.cc/1zpKGbPP/tailwind-css-svgrepo-com.png",
-        "level" : 3
+        "level" : "advanced"
     },
     {
         "id" : 5,
         "name" : "Javascript",
         "symbol" : "https://i.postimg.cc/ZKRjGfPF/js01-svgrepo-com.png",
-        "level" : 3
+        "level" : "advanced"
     },
     {
         "id" : 6,
         "name" : "VueJs",
         "symbol" : "https://i.postimg.cc/sXs4wKDW/vue-fill-svgrepo-com.png",
-        "level" : 3
+        "level" : "advanced"
     },
     {
         "id" : 7,
         "name" : "NextJs",
         "symbol" : "https://i.postimg.cc/NfzbB1ph/nextjs-icon-svgrepo-com.png",
-        "level" : 2
+        "level" : "intermediate"
     },
     {
         "id" : 8,
         "name" : "ThreeJs",
         "symbol" : "https://i.postimg.cc/cCJMNH34/Threejs-logo-cutout.png",
-        "level" : 2
+        "level" : "intermediate"
     },
     {
         "id" : 9,
         "name" : "Blender",
         "symbol" : "https://i.postimg.cc/MTmdSNrt/blender-svgrepo-com.png",
-        "level" : 2
+        "level" : "intermediate"
     },
     {
         "id" : 10,
         "name" : "Figma",
         "symbol" : "https://i.postimg.cc/4xHPdmSY/figma-svgrepo-com.png",
-        "level" : 3
+        "level" : "advanced"
     },
     {
         "id" : 11,
         "name" : "Java",
         "symbol" : "https://i.postimg.cc/SK0rzkBD/java-svgrepo-com.png",
-        "level" : 2
+        "level" : "intermediate"
     },
     {
         "id" : 12,
         "name" : "C#",
         "symbol" : "https://i.postimg.cc/W3vXxTSh/63065002cd563e1f8fcead3b-fdcad5ca.png",
-        "level" : 2
+        "level" : "intermediate"
     }
     
 ], "education" : [
