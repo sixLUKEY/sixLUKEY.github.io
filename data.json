@@ -107,6 +107,24 @@
 ], "projects" : [
     {
         "id" : 1,
+        "name" : "Shenron's Tiny Trinkets",
+        "image" : "https://i.postimg.cc/prpNSCBp/Screenshot-36.png",
+        "description" : "My final Academy project. Shenron's Tiny trinkets is a Dragon Ball Z themed store which sells character equippable items. This prpject makes use of login / register, cart and admin CRUD system.",
+        "stack" : "HTML, CSS, JavaScript, Vue, Tailwind, GSAP, Node, Express, mySQL",
+        "live" : "https://capstone-bc6d6.web.app/",
+        "github" : "https://github.com/sixLUKEY/CAPSTONE.git"
+    },
+    {
+        "id" : 2,
+        "name" : "Another Time",
+        "image" : "https://i.postimg.cc/gjk8RSPt/Screenshot-37.png",
+        "description" : "A watch store showcasing luxury time pieces. This project makes use of Admin CRUD system using mysql database",
+        "stack" : "HTML, CSS, JavaScript, Vue, Tailwind, GSAP, Node, Express, mySQL",
+        "live" : "https://node-eomp-6bfed.web.app/",
+        "github" : "https://github.com/sixLUKEY/Node_EOMP.git"
+    },
+    {
+        "id" : 3,
         "name" : "E-commerce Shoe Store",
         "image" : "https://i.postimg.cc/L5hQczrs/Screenshot-27.png",
         "description" : "A shoe store with functional cart and CRUD system, My end of module Javascript Project.",
@@ -115,7 +133,16 @@
         "github" : "https://github.com/sixLUKEY/javascript_EOMP.git"
     },
     {
-        "id" : 2,
+        "id" : 4,
+        "name" : "Mini Crypto Store",
+        "image" : "https://i.postimg.cc/vmpd4Bpc/Screenshot-38.png",
+        "description" : "A mini crypto store featuring different crypto coins. Fully functional CRUD system using mySQL",
+        "stack" : "HTML, CSS, JavaScript, Vue, Tailwind, Node, Express, mySQL",
+        "live" : "https://mini-ecom-ece68.web.app/",
+        "github" : "https://github.com/sixLUKEY/Node_ecommerce.git"
+    },
+    {
+        "id" : 5,
         "name" : "E-commerce Gadget Store",
         "image" : "https://i.postimg.cc/WzKYTdvw/Screenshot-26.png",
         "description" : "A gadget store with products displaying via a javascript Array",
@@ -124,40 +151,13 @@
         "github" : "https://github.com/sixLUKEY/E-commerce.git"
     },
     {
-        "id" : 3,
+        "id" : 6,
         "name" : "My first Portfolio",
         "image" : "https://i.postimg.cc/yd1bPqjc/Screenshot-28.png",
         "description" : "My first Portfolio and first end of module Project, featuring some neumorphism aspects",
         "stack" : "HTML, CSS, JavaScript, Bootstrap",
         "live" : "https://legendary-syrniki-9d8324.netlify.app/",
         "github" : "https://github.com/sixLUKEY/BOOTSTRAP-EOMP.git"
-    },
-    {
-        "id" : 4,
-        "name" : "Javasscript Calculator",
-        "image" : "https://i.postimg.cc/hGqwXQ7C/Screenshot-25.png",
-        "description" : "A fully functional calculator, one of my first Javascript Projects ",
-        "stack" : "HTML, CSS, JavaScript",
-        "live" : "https://exquisite-toffee-cf249d.netlify.app/",
-        "github" : "https://github.com/sixLUKEY/CalculatorRetry.git"
-    },
-    {
-        "id" : 5,
-        "name" : "Aesthetic Class List",
-        "image" : "https://i.postimg.cc/j5Mk3839/Screenshot-24.png",
-        "description" : "A class list displaying details about the learners",
-        "stack" : "HTML, CSS",
-        "live" : "https://deft-snickerdoodle-c3535c.netlify.app/",
-        "github" : "https://github.com/sixLUKEY/ClassAge.git"
-    },
-    {
-        "id" : 6,
-        "name" : "Six Paths Of Pain",
-        "image" : "https://i.postimg.cc/t46wRN7Z/Screenshot-23.png",
-        "description" : "A side project showcasing the Naruto Character 'Pain' and his variations",
-        "stack" : "HTML, CSS, JavaScript",
-        "live" : "https://incomparable-buttercream-1e531e.netlify.app/",
-        "github" : "https://github.com/sixLUKEY/NARUTO-PAGE.git"
     }
 ], "testimonials" : [
     {
